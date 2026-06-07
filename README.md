@@ -2,6 +2,7 @@
 
 **Aim:**
 
+
 To study I-V characteristics of Gunn Diode and depth of modulation of modulation of PINdiode.
 
 **Apparatus Used:**
